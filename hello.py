@@ -97,11 +97,16 @@ with st.container():
                     "Worked as a backend developer on Car Booking and Maintenance website. "
                     "Developed the backend in 2 months, resulting in increased user engagement and efficiency.",
                     unsafe_allow_html=True)
+# //Chatbot for Mines Rules and Regulation  :
+#                  (Python , chainlit ) 
+#  Implementation of chatbot using  LLM llama2 and langchain 
 
     # Projects Section
     elif selected_section == "Projects":
         st.markdown("<h2 class='section-header'>Projects</h2>", unsafe_allow_html=True)
-        st.markdown(
+        st.markdown("**Chatbot for Mines Rules and Regulation**<br>"
+                    " (Python , chainlit )<br>"
+                    "Implementation of chatbot using  LLM llama2 and langchain<br><br>"
                     "**AI Driven Car Suggestion System for Autonomous Car**<br>"
                     "(Deep learning, Python, Streamlit)<br>"
                     "DL model that directs car control operations such as maintaining speed, accelerating, and breaking<br><br>"
