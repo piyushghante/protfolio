@@ -101,9 +101,7 @@ with st.container():
     # Projects Section
     elif selected_section == "Projects":
         st.markdown("<h2 class='section-header'>Projects</h2>", unsafe_allow_html=True)
-        st.markdown("**Securing Data Image using Advanced Encryption Standard**<br>"
-                    "(Python, Encryption Algorithm, Streamlit)<br>"
-                    "Implemented a robust encryption and decryption software for data embedded within images, ensuring end-to-end security<br><br>"
+        st.markdown(
                     "**AI Driven Car Suggestion System for Autonomous Car**<br>"
                     "(Deep learning, Python, Streamlit)<br>"
                     "DL model that directs car control operations such as maintaining speed, accelerating, and breaking<br><br>"
