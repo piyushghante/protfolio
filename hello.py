@@ -80,8 +80,9 @@ with st.container():
         st.markdown("<h2 class='section-header'>Education</h2>", unsafe_allow_html=True)
         st.markdown("1. **B. Tech in Artificial Intelligence and Data Science**<br>"
                     "   - *Vishwakarma Institute of Technology, Bibwewadi, Pune*<br>"
-                    "   - *Dec 2022, Studying in Third Year*<br>"
-                    "   - *CGPA: 8.32*<br><br>"
+                    "   - *Dec 2022, Pursuing*<br>"
+                    "   - *SGPA: 9.17*<br><br>"
+                    "   - *CGPA: 8.53*<br><br>"
                     "2. **Diploma in Computer Technology**<br>"
                     "   - *Government Polytechnic, Solapur*<br>"
                     "   - *Aug 2019 - Aug 2022*<br>"
